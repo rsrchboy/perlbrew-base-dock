@@ -5,7 +5,7 @@
 #
 # http://creativecommons.org/licenses/by-sa/4.0/
 
-FROM ubuntu:trusty
+FROM ubuntu:xenial
 MAINTAINER Chris Weyl <chris.weyl@wps.io>
 
 # update packages
